@@ -1,5 +1,5 @@
-# mvtracking-backend-hub
-Backend services for MV Tracking project
+# roche-shopping-cart
+Backend services for Roche Shopping Cart
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
