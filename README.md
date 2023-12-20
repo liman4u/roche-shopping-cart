@@ -49,7 +49,7 @@ Available API [docs](http://localhost:8000/docs)
 | Method | Endpoint                      | Description                                                                  |
 | ------ | ----------------------------- | -----------------------------------------------------------------------------|
 | GET    | /api/v1/health                 | Check if service is healthy                                                  |
-| POST   | /api/v1/shopping_cart_item | Add item to shopping cart                         |
+| POST   | /api/v1/shopping_cart_item | Add item to shopping cart call reservation service to run in the background for reserving cart item                         |
 | GET    | /api/v1/shopping_cart_item                      | Get all cart items                                           |
 
 ![Swagger UI](swagger_ui.png)
