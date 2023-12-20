@@ -1,0 +1,14 @@
+{
+    "request": {
+        "urlPathPattern": "/reserve",
+        "method": "POST"
+    },
+    "response": {
+        "status": 200,
+        "fixedDelayMilliseconds": 30000,
+        "bodyFileName": "reserve_success.json",
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
